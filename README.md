@@ -1,5 +1,6 @@
 # Poster_References
-References for RHUL MSc Symposium 2025- Grace Hagon
+References for the RHUL MSc Symposium, 30th April- 1st May, 2025
+Grace Hagon
 
 [1] 
 Naghavi, M., Vollset, S.E., Ikuta, K.S., Swetschinski, L.R., Gray, A.P., Wool, E.E., et al (2024) Global burden of bacterial antimicrobial resistance 1990–2021: a systematic analysis with forecasts to 2050. The Lancet, 404, 1199–1226. Available from:10.1016/S0140-6736(24)01867-1.
